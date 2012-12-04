@@ -6,6 +6,7 @@ project = uran_ckeditor_set
 dependencies[] = features
 dependencies[] = imce
 dependencies[] = imce_wysiwyg
+dependencies[] = libraries
 dependencies[] = strongarm
 dependencies[] = wysiwyg
 features[ctools][] = strongarm:strongarm:1
