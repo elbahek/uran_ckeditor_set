@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Uran CKEditor set feature.
+ */
+
+include_once 'uran_ckeditor_set.features.inc';
